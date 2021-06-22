@@ -1,4 +1,4 @@
-# Bienvenidos a la aplicación de esescritorio CIFRADO.
+# Bienvenidos a la aplicación de escritorio CIFRADO.
 ## Descripción:
 Aplicación de escritorio, usando kivy, para codificar y decodificar textos usando
 el cifrado Cesar.
