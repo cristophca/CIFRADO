@@ -1,0 +1,31 @@
+Principal:
+<Principal>
+    orientation: "vertical"
+
+    FloatLayout:
+        Image:
+            pos_hint: {'x': 0, 'top': 1}
+            size_hint: (None, None)
+            source:"img/shield1.png"
+
+    TextInput:
+        on_text: root.input_text(self)
+        
+    BoxLayout:
+        Slider:
+            min: -26
+            max: 26
+            value: 0
+            on_value: root.show_slider(self)
+
+        Label:
+            text: root.label_number
+    
+    Label:
+        text: root.label_text
+
+    Button:
+        text: "CIFRAR/DESCIFRAR"
+        on_press: root.do_click()
+        
+        
