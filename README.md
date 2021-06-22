@@ -9,7 +9,7 @@ Al arrancar la aplicación nos muestra una ventana con disposición gráfica, do
 ## Instalación:
 1. Descarga el codigo con el siguiente comando:
 '''
-git clone 
+git clone https://github.com/cristophca/cifrado.git
 '''
 2. Crea y activa el entorno virtual:
 ```
