@@ -3,7 +3,7 @@
 Aplicación de escritorio, usando kivy, para codificar y decodificar textos usando
 el cifrado Cesar.
 ## Uso:
-Al arrancar la aplicación nos mostra una ventana con disposición gráfica, donde podrás escribir un texto para codificarlo o descodificarlo siguiendo el cifrado cesar.
+Al arrancar la aplicación nos muestra una ventana con disposición gráfica, donde podrás escribir un texto para codificarlo o descodificarlo siguiendo el cifrado cesar.
 
 
 ## Instalación:
